@@ -39,23 +39,49 @@ I enjoy learning through practice, solving logical problems, and improving my th
 ---
 
 
-### 🎵 Favorite Album
+### 🎵 Favorite Albums
 
-<p align="center">
-  <a href="https://open.spotify.com/intl-es/track/5VerYcwtt2Xqug4JXF5wKr">
-    <img 
-      src="https://i.scdn.co/image/ab67616d00001e02dabdc72106bd4acc7d5f1ca9" 
-      alt="Serenata sin mariachis Album Cover"
-      width="220"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://open.spotify.com/intl-es/track/5VerYcwtt2Xqug4JXF5wKr">
+        <img src="https://i.scdn.co/image/ab67616d00001e02dabdc72106bd4acc7d5f1ca9" width="170" />
+      </a>
+      <br />
+      <strong>Serenata sin mariachis</strong><br />
+      <em>Favorite track:</em> 6:30 🎧
+    </td>
 
-<p align="center">
-  <strong>Album:</strong> Serenata sin mariachis <br/>
-  <strong>Favorite track:</strong> 6:30 🎧 <br/>
-  <em>Music that helps me relax and stay focused while coding 💻✨</em>
-</p>
+  <td align="center">
+      <a href="https://open.spotify.com/track/3FAclTFfvUuQYnEsptbK8w">
+        <img src="https://i.scdn.co/image/ab67616d00001e0235584aedc061de5ba20040ca" width="170" />
+      </a>
+      <br />
+      <strong>Back to Black</strong><br />
+      <em>Favorite track:</em> Back to Black 🎙️
+    </td>
+
+  <td align="center">
+      <a href="https://open.spotify.com/track/5yEPktRqvIhko5QFF3aBhQ">
+        <img src="https://i.scdn.co/image/ab67616d0000b273bdba586eb69c503f7ff7d658" width="170" />
+      </a>
+      <br />
+      <strong>Use your illusion</strong><br />
+      <em>Don´t cry</em> 🎸
+    </td>
+
+  <td align="center">
+      <a href="https://open.spotify.com/track/4l4yRskFEltrLa6Z5yH9pC">
+        <img src="https://www.emp-online.es/dw/image/v2/BBQV_PRD/on/demandware.static/-/Sites-master-emp/default/dwfc246c0f/images/1/2/6/2/126272.jpg?sw=350&sh=400&sm=fit&sfrm=png" width="170" />
+      </a>
+      <br />
+      <strong>Appetite for Destruction</strong><br />
+      <em>Favorite track:</em> Welcome to the Jungle 🤘
+    </td>
+  </tr>
+</table>
+
+
 
 
 
