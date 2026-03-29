@@ -19,12 +19,10 @@ I enjoy learning through practice, solving logical problems, and improving my th
 ---
 
 ## What I'm Currently Learning 📚
-
-- Programming logic using **PSeInt**
-- Python fundamentals (syntax, conditions, loops)
+- Javascript and NODE.js (Arrays, arrow funtions, fecth, servers, APIS, Json...)
 - Basic version control with **Git & GitHub**
 - Writing documentation with **Markdown**
-- Basic structure of web pages using **HTML**
+- Basic structure of web pages using **HTML** and web styles using **CSS**
 - Good practices for learning and studying code
 
 ---
