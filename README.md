@@ -1,14 +1,14 @@
-<h1 align="center">Hola, soy Diego Andrés Parra 👋</h1>
-<p align="center"><strong>Desarrollador backend · Java · Spring Boot · SQL</strong></p>
-<p align="center">APIs REST · Seguridad · Lógica de negocio · Bases de datos relacionales</p>
+<h1 align="center">Hi, I'm Diego Andrés Parra 👋</h1>
+<p align="center"><strong>Backend Developer · Java · Spring Boot · SQL</strong></p>
+<p align="center">REST APIs · Security · Business Logic · Relational Databases</p>
 
 ---
 
-Estudié programación en **Campuslands** y ahora soy **desarrollador backend**. Me interesa construir servicios con reglas de negocio claras, trabajar con datos y entender cómo se autentica y autoriza cada operación.
+I studied programming at **Campuslands** and now work as a **backend developer**. I'm interested in building services with clear business rules, working with data, and understanding how each operation is authenticated and authorized.
 
-Mis proyectos recorren desde aplicaciones de consola con Java hasta una plantilla con Spring Boot, Spring Security y PostgreSQL.
+My projects range from Java console applications to a template built with Spring Boot, Spring Security, and PostgreSQL.
 
-## Stack principal
+## Core Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
@@ -17,39 +17,39 @@ Mis proyectos recorren desde aplicaciones de consola con Java hasta una plantill
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-También he trabajado en ejercicios y proyectos con **Python, JavaScript, HTML, CSS y n8n**.
+I've also worked on exercises and projects with **Python, JavaScript, HTML, CSS, and n8n**.
 
-## Proyectos destacados
+## Featured Projects
 
-| Proyecto | Qué puedes encontrar | Tecnologías |
+| Project | What You'll Find | Technologies |
 | --- | --- | --- |
-| **[NEXO · Gestión y seguridad](https://github.com/DiegoAndresParra14/Plantilla_Spring_Security)** | Backend con autenticación JWT, roles, permisos y módulos de negocio; incluye un cliente web. | Java 21, Spring Boot, Spring Security, PostgreSQL, Gradle |
-| **[Sistema de aeropuerto](https://github.com/DiegoAndresParra14/java_aeropuerto)** | Aplicación de consola para gestionar vuelos, pasajeros y reservas. Práctica de POO y organización en modelos, servicios y repositorios. | Java 17, Maven |
-| **[Modelo de datos para coworking](https://github.com/DiegoAndresParra14/examen_Diego_parra_mysql)** | Ejercicio de diseño relacional para usuarios, membresías, espacios, reservas y facturación. | MySQL, SQL |
+| **[NEXO · Management & Security](https://github.com/DiegoAndresParra14/Plantilla_Spring_Security)** | Backend with JWT authentication, roles, permissions, and business modules; includes a web client. | Java 21, Spring Boot, Spring Security, PostgreSQL, Gradle |
+| **[Airport Management System](https://github.com/DiegoAndresParra14/java_aeropuerto)** | Console application for managing flights, passengers, and reservations. OOP practice organized into models, services, and repositories. | Java 17, Maven |
+| **[Coworking Database Model](https://github.com/DiegoAndresParra14/examen_Diego_parra_mysql)** | Relational database design exercise covering users, memberships, workspaces, reservations, and billing. | MySQL, SQL |
 
-### Otros proyectos
+### Other Projects
 
-- **[Movie & TV Shows](https://github.com/DiegoAndresParra14/APIS_JavaScript):** cliente web para practicar consumo de APIs HTTP con JavaScript.
-- **[Portfolio](https://github.com/DiegoAndresParra14/Portfolio):** presentación personal y proyectos web.
-- **[CoffeeSoap](https://github.com/DiegoAndresParra14/CoffeeSoap):** sitio de producto con HTML, CSS y JavaScript.
+- **[Movie & TV Shows](https://github.com/DiegoAndresParra14/APIS_JavaScript):** web client for practicing HTTP API consumption with JavaScript.
+- **[Portfolio](https://github.com/DiegoAndresParra14/Portfolio):** personal portfolio and web projects.
+- **[CoffeeSoap](https://github.com/DiegoAndresParra14/CoffeeSoap):** product website built with HTML, CSS, and JavaScript.
 
-## En qué estoy profundizando
+## What I'm Exploring Further
 
-- Diseño de APIs REST y separación de responsabilidades.
-- Autenticación con JWT y autorización mediante roles y permisos.
-- Modelado relacional y persistencia de datos.
-- Manejo de errores, pruebas y documentación para facilitar el uso de mis proyectos.
+- REST API design and separation of concerns.
+- JWT authentication and authorization through roles and permissions.
+- Relational modeling and data persistence.
+- Error handling, testing, and documentation that make my projects easier to use.
 
-Como **desarrollador backend**, sigo reforzando mis fundamentos y construyendo servicios, integraciones y proyectos cada vez más completos.
+As a **backend developer**, I continue strengthening my foundations and building more complete services, integrations, and projects.
 
-## Contacto
+## Contact
 
 [LinkedIn](https://www.linkedin.com/in/dieguito-parra-6761a43a1/) · [GitHub](https://github.com/DiegoAndresParra14)
 
 <details>
-<summary>Fuera del código 🎧</summary>
+<summary>Beyond Code 🎧</summary>
 
-La música también me acompaña: Back to Black, Guns N’ Roses y Serenata sin mariachis.
+Music keeps me company too: Back to Black, Guns N’ Roses, and Serenata sin mariachis.
 
-[Mi Spotify](https://open.spotify.com/user/31chfkeemswcccr7bxwdcrfsowce)
+[My Spotify](https://open.spotify.com/user/31chfkeemswcccr7bxwdcrfsowce)
 </details>
