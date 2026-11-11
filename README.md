@@ -1,10 +1,10 @@
 <h1 align="center">Hola, soy Diego Andrés Parra 👋</h1>
-<p align="center"><strong>Desarrollador backend en formación · Java · Spring Boot · SQL</strong></p>
+<p align="center"><strong>Desarrollador backend · Java · Spring Boot · SQL</strong></p>
 <p align="center">APIs REST · Seguridad · Lógica de negocio · Bases de datos relacionales</p>
 
 ---
 
-Estudio programación en **Campuslands** y estoy orientando mi desarrollo profesional hacia el **backend**. Me interesa construir servicios con reglas de negocio claras, trabajar con datos y entender cómo se autentica y autoriza cada operación.
+Estudié programación en **Campuslands** y ahora soy **desarrollador backend**. Me interesa construir servicios con reglas de negocio claras, trabajar con datos y entender cómo se autentica y autoriza cada operación.
 
 Mis proyectos recorren desde aplicaciones de consola con Java hasta una plantilla con Spring Boot, Spring Security y PostgreSQL.
 
@@ -40,7 +40,7 @@ También he trabajado en ejercicios y proyectos con **Python, JavaScript, HTML, 
 - Modelado relacional y persistencia de datos.
 - Manejo de errores, pruebas y documentación para facilitar el uso de mis proyectos.
 
-Mi objetivo es crecer como **desarrollador backend junior**, reforzando mis fundamentos y construyendo proyectos cada vez más completos.
+Como **desarrollador backend**, sigo reforzando mis fundamentos y construyendo servicios, integraciones y proyectos cada vez más completos.
 
 ## Contacto
 
