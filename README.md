@@ -1,4 +1,4 @@
-[![Diego Andrés Parra — Backend Developer working with Java, Spring Boot and SQL](perfil.png)](https://portfolio-one-wine-r6971y2s0u.vercel.app)
+[![A golden Java cup turns between two outstretched hands](assets/java-renacimiento.gif)](https://portfolio-one-wine-r6971y2s0u.vercel.app)
 
 <p align="center"><a href="https://portfolio-one-wine-r6971y2s0u.vercel.app">Portfolio</a> &nbsp; · &nbsp; <a href="https://portfolio-one-wine-r6971y2s0u.vercel.app/cv_diego_parra.pdf">Résumé in Spanish</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/diego-parra-6761a43a1/">LinkedIn</a></p>
 
