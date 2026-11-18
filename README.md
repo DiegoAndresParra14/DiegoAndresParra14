@@ -1,12 +1,12 @@
-[![Diego Andrés Parra — Backend Developer working with Java, Spring Boot and SQL](perfil.png)](https://portfolio-one-wine-r6971y2s0u.vercel.app)
+[![A golden Java cup turns between two outstretched hands](assets/java-renacimiento.gif)](https://portfolio-one-wine-r6971y2s0u.vercel.app)
 
-<p align="center"><a href="https://portfolio-one-wine-r6971y2s0u.vercel.app"><strong>Visit my portfolio</strong></a> &nbsp; · &nbsp; <a href="https://portfolio-one-wine-r6971y2s0u.vercel.app/cv_diego_parra.pdf">Download my résumé (Spanish)</a> &nbsp; · &nbsp; <a href="https://www.linkedin.com/in/diego-parra-6761a43a1/">Connect on LinkedIn</a></p>
+# Diego Andrés Parra
 
-## Hi, I'm Diego
+I build backends with **Java, Spring Boot and SQL** in Floridablanca, Colombia. I studied software development at **Campuslands** and joined **Globant** as an intern in November 2026.
 
-I'm a backend developer from Floridablanca, Colombia. I studied software development at **Campuslands** and joined **Globant** as an intern in November 2026. The work featured here comes from my academic and personal projects.
+[Portfolio](https://portfolio-one-wine-r6971y2s0u.vercel.app) · [Résumé in Spanish (PDF)](https://portfolio-one-wine-r6971y2s0u.vercel.app/cv_diego_parra.pdf) · [LinkedIn](https://www.linkedin.com/in/diego-parra-6761a43a1/)
 
-My favorite way to understand a system is to follow one operation all the way through it. Take a flight reservation. A passenger chooses a flight, a service checks the remaining capacity, and the application either records the booking or explains why it can't. The most interesting test is the passenger who tries to book the seat *after* the last one.
+My favorite part of backend work is testing the rule behind a request. In the academic and personal projects below, that means checking who can record a sale, what happens when a passenger tries to book a full flight, and when a membership expires.
 
 ## Featured project · NEXO
 
@@ -48,3 +48,5 @@ Away from the keyboard, my listening habits range from Guns N’ Roses to *Back 
 </details>
 
 If you'd like to talk about a backend opportunity or ask me about a decision in one of these projects, [send me a message on LinkedIn](https://www.linkedin.com/in/diego-parra-6761a43a1/).
+
+<sub>Banner artwork includes an animated adaptation of the [Java icon by Font Awesome](https://fontawesome.com/icons/java?f=brands&s=brands), used under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).</sub>
